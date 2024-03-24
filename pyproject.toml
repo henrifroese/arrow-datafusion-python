@@ -20,7 +20,7 @@ requires = ["maturin>=0.15,<0.16"]
 build-backend = "maturin"
 
 [project]
-name = "datafusion"
+name = "hfroesedatafusiontest"
 description = "Build and run queries against data"
 readme = "README.md"
 license = {file = "LICENSE.txt"}
